@@ -2,7 +2,7 @@
 
 <!-- - 🤔 I’m looking for help with --> 
 
-- 🌱 I’m currently learning Deno
+- 🌱 Technology without ache "h".
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about food  :)
 - 📫 How to reach me: -> leoboyer@gmail.com
