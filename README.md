@@ -26,12 +26,9 @@ tech_toolbox:
   - Networks & Data Systems
   - Industrial Controls
 
-stats:
-  github_stats: "https://github-readme-stats.vercel.app/api?username=technoboyer&show_icons=true&theme=radical"
-  top_languages: "https://github-readme-stats.vercel.app/api/top-langs/?username=technoboyer&layout=compact&theme=radical"
 
 more_about_me:
-  - "👷‍♂️ Always open to collaboration in IoT, infrastructure, or energy-smart AI projects"
+  - "👷‍♂️ Always open to collaboration in Software, Infrastructure, or  AI projects"
   - "🗺️ Background: Engineering, Software, Networks, Data Centers, Industrial Automation"
   - "💬 Ask me about: AI-driven process automation, system integration, or Venezuelan cuisine 🌮"
   - "📫 Reach out: leoboyer@gmail.com"
